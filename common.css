@@ -1,16 +1,89 @@
-.discription {color: rgb(0, 0, 0); font-family: 'Albert Sans'; text-align: center;}
-    .h1{color: #000000;font-family: 'Albert Sans', sans-serif; text-align: center; }
-    .top {height: 80px; background-color: #000000; }
-    .picture {border-radius: 1000px; border: 3px solid rgb(0, 0, 0); /* Параметры рамки */ box-shadow: 0 0 7px #666; /* Параметры тени */ width: 250px; margin-top: 50px;}
-    .img {text-align: center;}
-.buttoncontacts {height: 50px; width: 100px;}
-.buttoninfo {height: 50px; width: 100px;} 
-.buttons {display: flex; justify-content: space-around;margin-top: 25px;}
-.top {height: 80px; background-color: #000000;}
-.p {font-family: 'Albert Sans', sans-serif; color: white; font-size: 75px; margin-top: 0%;}
-.phone {width: 30px; margin-top: 25px;}
-.insta {width: 30px; float: left; margin-top: 100px;}
-.number {display: inline;}
-.nick {margin-top: 100px;}
-.top {height: 80px; background-color: #000000;}
-        .p {font-family: 'Albert Sans', sans-serif; color: white; font-size: 75px; margin-top: 0%;}
+.description {
+    color: rgb(0, 0, 0);
+    font-family: 'Albert Sans';
+    text-align: center;
+}
+
+.h1 {
+    color: #000000;
+    font-family: 'Albert Sans', sans-serif;
+    text-align: center;
+}
+
+.top {
+    height: 80px;
+    background-color: #000000;
+}
+
+.picture {
+    border-radius: 1000px;
+    border: 3px solid rgb(0, 0, 0);
+    /* Параметры рамки */
+    box-shadow: 0 0 7px #666;
+    /* Параметры тени */
+    width: 250px;
+    margin-top: 50px;
+}
+
+.img {
+    text-align: center;
+}
+
+.button_contacts {
+    height: 50px;
+    width: 100px;
+}
+
+.button_info {
+    height: 50px;
+    width: 100px;
+}
+
+.buttons {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 25px;
+}
+
+.top {
+    height: 80px;
+    background-color: #000000;
+}
+
+.p {
+    font-family: 'Albert Sans', sans-serif;
+    color: white;
+    font-size: 75px;
+    margin-top: 0%;
+}
+
+.phone {
+    width: 30px;
+    margin-top: 25px;
+}
+
+.insta {
+    width: 30px;
+    float: left;
+    margin-top: 100px;
+}
+
+.number {
+    display: inline;
+}
+
+.nick {
+    margin-top: 100px;
+}
+
+.top {
+    height: 80px;
+    background-color: #000000;
+}
+
+.p {
+    font-family: 'Albert Sans', sans-serif;
+    color: white;
+    font-size: 75px;
+    margin-top: 0%;
+}
